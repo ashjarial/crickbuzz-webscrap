@@ -36,4 +36,3 @@ For example, running the script with the URL `https://www.cricbuzz.com/cricket-m
 
 ---
 
-Feel free to customize this README file according to your preferences and needs. Let me know if you need further assistance!
